@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Python Project
 
 This project is a simple Python application that allows users to add two numbers together.
@@ -41,3 +42,7 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License.
+=======
+# my-python-project
+my_repository
+>>>>>>> 9330b09a15815a9396303d0c7943adb4d71eb646
